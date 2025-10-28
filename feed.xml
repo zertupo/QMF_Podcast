@@ -14,7 +14,7 @@
       <ns0:email>contact@qmf.fr</ns0:email>
     </ns0:owner>
     <itunes:category text="Business">
-      <itunes:category text="Investing"/>
+    <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg"/>
     <ns0:explicit>no</ns0:explicit>
