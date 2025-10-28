@@ -30,7 +30,6 @@
 
     <!-- Lien d’auto-référence -->
     <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <podcast:guid>qmf-world-closing-bell</podcast:guid>
 
     <!-- Exemple d’épisode -->
     <item>
