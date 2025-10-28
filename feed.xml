@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>QMF World Closing Bell</title>
+    <link>https://zertupo.github.io/qmf-podcast-feed/</link>
+    <language>fr</language>
+    <copyright>© QMF World Closing Bell</copyright>
+    <description>Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.</description>
+    <itunes:author>QMF</itunes:author>
+    <itunes:owner>
+      <itunes:name>QMF</itunes:name>
+      <itunes:email>contact@qmf.fr</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="https://zertupo.github.io/qmf-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
