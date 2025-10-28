@@ -7,17 +7,38 @@
     <link>https://zertupo.github.io/QMF_Podcast/</link>
     <language>fr</language>
     <copyright>© QMF World Closing Bell</copyright>
+
     <description>Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.</description>
-    <ns0:author>QMF</ns0:author>
-    <ns0:owner>
-      <ns0:name>QMF</ns0:name>
-      <ns0:email>contact@qmf.fr</ns0:email>
-    </ns0:owner>
+
+    <!-- Auteur et propriétaire -->
+    <itunes:author>QMF</itunes:author>
+    <itunes:owner>
+      <itunes:name>QMF</itunes:name>
+      <itunes:email>contact@qmf.fr</itunes:email>
+    </itunes:owner>
+
+    <!-- Catégorie Apple Podcasts -->
     <itunes:category text="Business">
-    <itunes:category text="Investing"/>
+      <itunes:category text="Investing"/>
     </itunes:category>
+
+    <!-- Image du podcast -->
     <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg"/>
-    <ns0:explicit>no</ns0:explicit>
-    <ns1:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
-  <item><title>Clôture Usa du 2025-10-28</title><enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0" /><pubDate>Tue, 28 Oct 2025 21:14:03 GMT</pubDate><guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3</guid><description>Analyse des marchés (Usa) du 2025-10-28</description></item></channel>
+
+    <!-- Contenu non explicite -->
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Lien d’auto-référence -->
+    <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- Exemple d’épisode -->
+    <item>
+      <title>Clôture USA du 2025-10-28</title>
+      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Tue, 28 Oct 2025 21:14:03 GMT</pubDate>
+      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3</guid>
+      <description>Analyse des marchés (USA) du 2025-10-28.</description>
+    </item>
+
+  </channel>
 </rss>
