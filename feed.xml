@@ -2,7 +2,7 @@
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
-    <link>https://zertupo.github.io/qmf-podcast-feed/</link>
+    <link>https://zertupo.github.io/QMF_Podcast/</link>
     <language>fr</language>
     <copyright>© QMF World Closing Bell</copyright>
     <description>Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.</description>
@@ -11,7 +11,11 @@
       <ns0:name>QMF</ns0:name>
       <ns0:email>contact@qmf.fr</ns0:email>
     </ns0:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg"/>
     <ns0:explicit>no</ns0:explicit>
-    <ns1:link href="https://zertupo.github.io/qmf-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <ns1:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
   <item><title>Clôture Usa du 2025-10-28</title><enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0" /><pubDate>Tue, 28 Oct 2025 21:14:03 GMT</pubDate><guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3</guid><description>Analyse des marchés (Usa) du 2025-10-28</description></item></channel>
 </rss>
