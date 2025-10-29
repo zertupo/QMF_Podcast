@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
     <link>https://zertupo.github.io/QMF_Podcast/</link>
@@ -10,35 +8,35 @@
 
     <description>Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.</description>
 
-    <!-- Auteur et propriétaire -->
-    <itunes:author>QMF</itunes:author>
-    <itunes:owner>
-      <itunes:name>QMF</itunes:name>
-      <itunes:email>contact@qmf.fr</itunes:email>
-    </itunes:owner>
+    
+    <ns0:author>QMF</ns0:author>
+    <ns0:owner>
+      <ns0:name>QMF</ns0:name>
+      <ns0:email>contact@qmf.fr</ns0:email>
+    </ns0:owner>
 
-    <!-- Catégorie Apple Podcasts -->
-    <itunes:category text="Business">
-      <itunes:category text="Investing"/>
-    </itunes:category>
+    
+    <ns0:category text="Business">
+      <ns0:category text="Investing" />
+    </ns0:category>
 
-    <!-- Image du podcast -->
-    <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg"/>
+    
+    <ns0:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
 
-    <!-- Contenu non explicite -->
-    <itunes:explicit>no</itunes:explicit>
+    
+    <ns0:explicit>no</ns0:explicit>
 
-    <!-- Lien d’auto-référence -->
-    <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <ns1:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Exemple d’épisode -->
+    
     <item>
       <title>Clôture USA du 2025-10-28</title>
-      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0" />
       <pubDate>Tue, 28 Oct 2025 21:14:03 GMT</pubDate>
       <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3</guid>
       <description>Analyse des marchés (USA) du 2025-10-28.</description>
     </item>
 
-  </channel>
+  <item><title>Clôture Asia du 2025-10-29</title><enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-10-29.mp3" type="audio/mpeg" length="0" /><pubDate>Wed, 29 Oct 2025 10:32:29 GMT</pubDate><guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-10-29.mp3</guid><description>Analyse des marchés (Asia) du 2025-10-29</description></item></channel>
 </rss>
