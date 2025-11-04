@@ -6,7 +6,7 @@ Chaque épisode est généré automatiquement à partir de notre analyse quotidi
 
 ## 🌍 Liens directs
 - [Flux RSS](https://zertupo.github.io/QMF_Podcast/feed.xml)
-- [Spotify](https://spotify.com)
+- [Spotify](https://open.spotify.com/show/68mjRJaL0c0qloTYduhjqV)
 - [Deezer](https://deezer.com)
 
 ---
