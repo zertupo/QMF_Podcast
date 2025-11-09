@@ -30,13 +30,6 @@
     <ns1:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
 
     
-    <item>
-      <title>Clôture USA du 2025-10-28</title>
-      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3" type="audio/mpeg" length="0" />
-      <pubDate>Tue, 28 Oct 2025 21:14:03 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-10-28.mp3</guid>
-      <description>Analyse des marchés (USA) du 2025-10-28.</description>
-    </item>
 
   <item>
     <title>Clôture Asia du 2025-11-03</title>
