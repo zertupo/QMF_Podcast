@@ -150,5 +150,12 @@
       <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-11.mp3</guid>
       <description>Analyse des marchés (Asia) du 2025-11-11</description>
       </item>
+    <item>
+      <title>Clôture Europe du 2025-11-11</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Tue, 11 Nov 2025 18:19:23 GMT</pubDate>
+      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3</guid>
+      <description>Analyse des marchés (Europe) du 2025-11-11</description>
+      </item>
     </channel>
   </rss>
