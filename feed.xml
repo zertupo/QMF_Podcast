@@ -199,5 +199,12 @@
       <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-13.mp3</guid>
       <description>Analyse des marchés (Europe) du 2025-11-13</description>
       </item>
+    <item>
+      <title>Clôture Usa du 2025-11-13</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3" type="audio/mpeg" length="0" />
+      <pubDate>Thu, 13 Nov 2025 21:44:59 GMT</pubDate>
+      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3</guid>
+      <description>Analyse des marchés (Usa) du 2025-11-13</description>
+      </item>
     </channel>
   </rss>
