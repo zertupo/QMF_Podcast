@@ -1,280 +1,304 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
     <link>https://zertupo.github.io/QMF_Podcast/</link>
     <language>fr</language>
     <copyright>© QMF World Closing Bell</copyright>
-    <description>Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.</description>
-    <ns0:author>QMF</ns0:author>
-    <ns0:owner>
-      <ns0:name>QMF</ns0:name>
-      <ns0:email>contact@qmf.fr</ns0:email>
-      </ns0:owner>
-    <ns0:category text="Business">
-      <ns0:category text="Investing" />
-      </ns0:category>
-    <ns0:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
-    <ns0:explicit>no</ns0:explicit>
-    <ns1:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <description><![CDATA[
+      Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.]]></description>
+    <itunes:author>QMF</itunes:author>
+    <itunes:owner>
+      <itunes:name>QMF</itunes:name>
+      <itunes:email>contact@qmf.fr</itunes:email>
+      </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+      </itunes:category>
+    <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clôture Asia du 2025-11-03</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" type="audio/mpeg" length="3188445" />
       <pubDate>Mon, 03 Nov 2025 10:33:53 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-03</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-03]]></description>
+      <itunes:duration>00:03:19</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-03</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3" type="audio/mpeg" length="3222300" />
       <pubDate>Mon, 03 Nov 2025 18:19:49 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-03</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-03]]></description>
+      <itunes:duration>00:03:21</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-03</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-03.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-03.mp3" type="audio/mpeg" length="2036968" />
       <pubDate>Mon, 03 Nov 2025 21:56:19 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-03.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-03</description>
-      </item>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-03.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-03]]></description>
+      <itunes:duration>00:02:07</itunes:duration>  
+    </item>
     <item>
       <title>Clôture Asia du 2025-11-04</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-04.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-04.mp3" type="audio/mpeg" length="2665996" />
       <pubDate>Tue, 04 Nov 2025 10:35:32 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-04.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-04</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-04.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-04]]></description>
+      <itunes:duration>00:02:46</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-04</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-04.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-04.mp3" type="audio/mpeg" length="2410623" />
       <pubDate>Tue, 04 Nov 2025 20:43:49 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-04.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-04</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-04.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-04]]></description>
+      <itunes:duration>00:02:30</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-04</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-04.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-04.mp3" type="audio/mpeg" length="2081689" />
       <pubDate>Tue, 04 Nov 2025 22:00:42 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-04.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-04</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-04.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-04]]></description>
+      <itunes:duration>00:02:10</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-05</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-05.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-05.mp3" type="audio/mpeg" length="2610826" />
       <pubDate>Wed, 05 Nov 2025 10:32:47 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-05.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-05</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-05.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-05]]></description>
+      <itunes:duration>00:02:43</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-05</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-05.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-05.mp3" type="audio/mpeg" length="3280814" />
       <pubDate>Wed, 05 Nov 2025 19:59:44 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-05.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-05</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-05.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-05]]></description>
+      <itunes:duration>00:03:25</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-05</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-05.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-05.mp3" type="audio/mpeg" length="2181999" />
       <pubDate>Wed, 05 Nov 2025 21:57:45 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-05.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-05</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-05.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-05]]></description>
+      <itunes:duration>00:02:16</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-06</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-06.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-06.mp3" type="audio/mpeg" length="2602884" />
       <pubDate>Thu, 06 Nov 2025 10:32:27 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-06.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-06</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-06.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-06]]></description>
+      <itunes:duration>00:02:42</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-06</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-06.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-06.mp3" type="audio/mpeg" length="2749588" />
       <pubDate>Thu, 06 Nov 2025 18:22:00 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-06.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-06</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-06.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-06]]></description>
+      <itunes:duration>00:02:51</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-06</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-06.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-06.mp3" type="audio/mpeg" length="2299446" />
       <pubDate>Thu, 06 Nov 2025 21:36:29 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-06.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-06</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-06.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-06]]></description>
+      <itunes:duration>00:02:23</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-07</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-07.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-07.mp3" type="audio/mpeg" length="2539773" />
       <pubDate>Fri, 07 Nov 2025 10:32:33 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-07.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-07</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-07.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-07]]></description>
+      <itunes:duration>00:02:38</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-07</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-07.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-07.mp3" type="audio/mpeg" length="2827746" />
       <pubDate>Fri, 07 Nov 2025 18:18:51 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-07.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-07</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-07.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-07]]></description>
+      <itunes:duration>00:02:56</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-07</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-07.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-07.mp3" type="audio/mpeg" length="3004543" />
       <pubDate>Fri, 07 Nov 2025 22:17:45 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-07.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-07</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-07.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-07]]></description>
+      <itunes:duration>00:03:07</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-10</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-10.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-10.mp3" type="audio/mpeg" length="2378440" />
       <pubDate>Mon, 10 Nov 2025 10:35:10 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-10.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-10</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-10.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-10]]></description>
+      <itunes:duration>00:02:28</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-10</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-10.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-10.mp3" type="audio/mpeg" length="2681461" />
       <pubDate>Mon, 10 Nov 2025 19:40:58 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-10.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-10</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-10.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-10]]></description>
+      <itunes:duration>00:02:47</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-10</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-10.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-10.mp3" type="audio/mpeg" length="2494215" />
       <pubDate>Mon, 10 Nov 2025 21:56:39 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-10.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-10</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-10.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-10]]></description>
+      <itunes:duration>00:02:35</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-11</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-11.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-11.mp3" type="audio/mpeg" length="2336226" />
       <pubDate>Tue, 11 Nov 2025 10:32:42 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-11.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-11</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-11.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-11]]></description>
+      <itunes:duration>00:02:25</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-11</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3" type="audio/mpeg" length="2419818" />
       <pubDate>Tue, 11 Nov 2025 18:19:23 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-11</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-11.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-11]]></description>
+      <itunes:duration>00:02:31</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-11</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-11.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-11.mp3" type="audio/mpeg" length="1453079" />
       <pubDate>Tue, 11 Nov 2025 23:02:15 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-11.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-11</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-11.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-11]]></description>
+      <itunes:duration>00:01:30</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-12</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-12.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-12.mp3" type="audio/mpeg" length="2547714" />
       <pubDate>Wed, 12 Nov 2025 10:32:39 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-12.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-12</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-12.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-12]]></description>
+      <itunes:duration>00:02:39</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-12</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-12.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-12.mp3" type="audio/mpeg" length="2076256" />
       <pubDate>Wed, 12 Nov 2025 20:41:07 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-12.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-12</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-12.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-12]]></description>
+      <itunes:duration>00:02:09</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-12</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-12.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-12.mp3" type="audio/mpeg" length="2170297" />
       <pubDate>Wed, 12 Nov 2025 22:10:11 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-12.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-12</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-12.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-12]]></description>
+      <itunes:duration>00:02:15</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-13</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-13.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-13.mp3" type="audio/mpeg" length="2288579" />
       <pubDate>Thu, 13 Nov 2025 10:33:29 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-13.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-13</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-13.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-13]]></description>
+      <itunes:duration>00:02:23</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-13</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-13.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-13.mp3" type="audio/mpeg" length="2650950" />
       <pubDate>Thu, 13 Nov 2025 18:18:58 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-13.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-13</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-13.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-13]]></description>
+      <itunes:duration>00:02:45</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-13</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3" type="audio/mpeg" length="2194538" />
       <pubDate>Thu, 13 Nov 2025 21:44:59 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-13</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-13.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-13]]></description>
+      <itunes:duration>00:02:17</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-14</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-14.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-14.mp3" type="audio/mpeg" length="2294430" />
       <pubDate>Fri, 14 Nov 2025 10:31:58 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-14.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-14</description>
-      </item>
-    <item>
-      <title>Clôture Europe du 2025-11-15</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-15.mp3" type="audio/mpeg" length="0" />
-      <pubDate>Sat, 15 Nov 2025 07:39:27 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-15.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-15</description>
-      </item>
-    <item>
-      <title>Clôture Usa du 2025-11-15</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-15.mp3" type="audio/mpeg" length="0" />
-      <pubDate>Sat, 15 Nov 2025 07:43:44 GMT</pubDate>
-      <guid>https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-15.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-15</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-14.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-14]]></description>
+      <itunes:duration>00:02:23</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-17</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-17.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-17.mp3" type="audio/mpeg" length="2887515" />
       <pubDate>Mon, 17 Nov 2025 10:33:28 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-17.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-17</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-17.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-17]]></description>
+      <itunes:duration>00:03:00</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-17</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-17.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-17.mp3" type="audio/mpeg" length="2627126" />
       <pubDate>Mon, 17 Nov 2025 18:18:53 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-17.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-17</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-17.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-17]]></description>
+      <itunes:duration>00:02:44</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-18</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-18.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-18.mp3" type="audio/mpeg" length="2752932" />
       <pubDate>Tue, 18 Nov 2025 10:33:29 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-18.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-18</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-18.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-18]]></description>
+      <itunes:duration>00:02:52</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-18</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-18.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-18.mp3" type="audio/mpeg" length="1736037" />
       <pubDate>Tue, 18 Nov 2025 18:19:53 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-18.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-18</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-18.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-18]]></description>
+      <itunes:duration>00:01:48</itunes:duration>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-18</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-18.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-18.mp3" type="audio/mpeg" length="2320344" />
       <pubDate>Tue, 18 Nov 2025 22:06:40 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-18.mp3</guid>
-      <description>Analyse des marchés (Usa) du 2025-11-18</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-18.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-18]]></description>
+      <itunes:duration>00:02:25</itunes:duration>
       </item>
     <item>
       <title>Clôture Asia du 2025-11-19</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-19.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-19.mp3" type="audio/mpeg" length="2629634" />
       <pubDate>Wed, 19 Nov 2025 10:32:26 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-19.mp3</guid>
-      <description>Analyse des marchés (Asia) du 2025-11-19</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-19.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Asia) du 2025-11-19]]></description>
+      <itunes:duration>00:02:44</itunes:duration>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-19</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-19.mp3" type="audio/mpeg" length="0" />
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-19.mp3" type="audio/mpeg" length="3162950" />
       <pubDate>Wed, 19 Nov 2025 18:20:06 GMT</pubDate>
-      <guid>zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-19.mp3</guid>
-      <description>Analyse des marchés (Europe) du 2025-11-19</description>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-19.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-19]]></description>
+      <itunes:duration>00:03:17</itunes:duration>
       </item>
     </channel>
   </rss>
