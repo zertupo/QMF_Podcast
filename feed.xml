@@ -246,6 +246,22 @@
       <itunes:duration>00:02:23</itunes:duration>
       </item>
     <item>
+      <title>Clôture Europe du 2025-11-14</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-14.mp3" type="audio/mpeg" length="2505082" />
+      <pubDate>Fri, 14 Nov 2025 10:31:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-14.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Europe) du 2025-11-14]]></description>
+      <itunes:duration>00:02:36</itunes:duration>
+      </item>
+    <item>
+      <title>Clôture Usa du 2025-11-14</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-14.mp3" type="audio/mpeg" length="2187015" />
+      <pubDate>Fri, 14 Nov 2025 10:31:59 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-14.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-14]]></description>
+      <itunes:duration>00:02:16</itunes:duration>
+      </item>
+    <item>
       <title>Clôture Asia du 2025-11-17</title>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-17.mp3" type="audio/mpeg" length="2887515" />
       <pubDate>Mon, 17 Nov 2025 10:33:28 GMT</pubDate>
@@ -300,6 +316,14 @@
       <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-19.mp3</guid>
       <description><![CDATA[Analyse des marchés (Europe) du 2025-11-19]]></description>
       <itunes:duration>00:03:17</itunes:duration>
+      </item>
+    <item>
+      <title>Clôture Usa du 2025-11-19</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-19.mp3" type="audio/mpeg" length="2377604" />
+      <pubDate>Wed, 19 Nov 2025 22:20:06 GMT</pubDate>
+      <guid isPermaLink="true">zertupo.github.io/QMF_Podcast/podcast_usa_2025-11-19.mp3</guid>
+      <description><![CDATA[Analyse des marchés (Usa) du 2025-11-19]]></description>
+      <itunes:duration>00:02:28</itunes:duration>
       </item>
     </channel>
   </rss>
