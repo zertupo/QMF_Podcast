@@ -10,7 +10,6 @@
     <copyright>© QMF World Closing Bell</copyright>
     <description><![CDATA[
       Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.]]></description>
-    <itunes:explicit>no</itunes:explicit>
     <itunes:author>QMF</itunes:author>
     <itunes:owner>
       <itunes:name>QMF</itunes:name>
@@ -19,6 +18,7 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
       </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
     <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
