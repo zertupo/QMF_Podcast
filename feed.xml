@@ -5,12 +5,12 @@
      version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
-    <itunes:explicit>no</itunes:explicit>
     <link>https://zertupo.github.io/QMF_Podcast/</link>
     <language>fr</language>
     <copyright>© QMF World Closing Bell</copyright>
     <description><![CDATA[
       Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Produit par IA et réalisé par QMF.]]></description>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:author>QMF</itunes:author>
     <itunes:owner>
       <itunes:name>QMF</itunes:name>
