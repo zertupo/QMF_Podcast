@@ -442,5 +442,13 @@
       <description>Analyse des marchés (Usa) du 2025-11-26</description>
       <itunes:duration>00:04:13</itunes:duration>
       </item>
+    <item>
+      <title>Clôture Asia du 2025-11-27</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-27.mp3" type="audio/mpeg" length="3478091" />
+      <pubDate>Thu, 27 Nov 2025 10:23:54 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-27.mp3</guid>
+      <description>Analyse des marchés (Asia) du 2025-11-27</description>
+      <itunes:duration>00:03:37</itunes:duration>
+      </item>
     </channel>
   </rss>
