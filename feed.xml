@@ -530,5 +530,13 @@
       <description>Analyse des marchés (Usa) du 2025-12-02</description>
       <itunes:duration>00:02:30</itunes:duration>
       </item>
+    <item>
+      <title>Clôture Asia du 2025-12-03</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_asia_2025-12-03.mp3" type="audio/mpeg" length="2676445" />
+      <pubDate>Wed, 03 Dec 2025 10:25:55 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-12-03.mp3</guid>
+      <description>Analyse des marchés (Asia) du 2025-12-03</description>
+      <itunes:duration>00:02:47</itunes:duration>
+      </item>
     </channel>
   </rss>
