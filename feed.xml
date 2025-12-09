@@ -634,5 +634,13 @@
       <description>Analyse des marchés (Asia) du 2025-12-09</description>
       <itunes:duration>00:02:57</itunes:duration>
       </item>
+    <item>
+      <title>Clôture Europe du 2025-12-09</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-12-09.mp3" type="audio/mpeg" length="2442806" />
+      <pubDate>Tue, 09 Dec 2025 21:39:35 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-12-09.mp3</guid>
+      <description>Analyse des marchés (Europe) du 2025-12-09</description>
+      <itunes:duration>00:02:32</itunes:duration>
+      </item>
     </channel>
   </rss>
