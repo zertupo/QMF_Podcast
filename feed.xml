@@ -17,7 +17,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:category text="Business">
       <itunes:category text="Investing" />
       </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
     <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
