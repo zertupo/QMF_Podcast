@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:podcast="https://podcastindex.org/namespace/1.0"
-xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
     <link>https://zertupo.github.io/QMF_Podcast/</link>
@@ -747,6 +745,14 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <pubDate>Wed, 17 Dec 2025 02:50:00 GMT</pubDate>
       <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2025-12-17.mp3</guid>
       <description>Analyse des marchés du 2025-12-17</description>
+      <itunes:duration>00:04:03</itunes:duration>
+      </item>
+    <item>
+      <title>Retour sur les séances du 2025-12-18.</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_du_2025-12-18.mp3" type="audio/mpeg" length="3903991" />
+      <pubDate>Thu, 18 Dec 2025 02:49:15 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2025-12-18.mp3</guid>
+      <description>Analyse des marchés du 2025-12-18</description>
       <itunes:duration>00:04:03</itunes:duration>
       </item>
     </channel>
