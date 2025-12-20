@@ -763,5 +763,13 @@
       <description>Analyse des marchés du 2025-12-18</description>
       <itunes:duration>00:04:03</itunes:duration>
       </item>
+    <item>
+      <title>Retour sur les séances du 2025-12-19.</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_du_2025-12-20.mp3" type="audio/mpeg" length="2887515" />
+      <pubDate>Sat, 20 Dec 2025 02:44:30 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2025-12-20.mp3</guid>
+      <description>Analyse des marchés du 2025-12-19</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      </item>
     </channel>
   </rss>
