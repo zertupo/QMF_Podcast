@@ -35,11 +35,15 @@
       </item>
     <item>
       <title>Clôture Europe du 2025-11-03</title>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3" type="audio/mpeg" length="3222300" />
-      <pubDate>Mon, 03 Nov 2025 18:19:49 GMT</pubDate>
-      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3</guid>
       <description>Analyse des marchés (Europe) du 2025-11-03</description>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3</guid>
+      <pubDate>Mon, 03 Nov 2025 18:19:49 GMT</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/https://zertupo.github.io/QMF_Podcast/podcast_europe_2025-11-03.mp3" type="audio/mpeg" length="3222300" />
+      <itunes:summary>Analyse des marchés (Europe) du 2025-11-03</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
       <itunes:duration>00:03:21</itunes:duration>
+      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
       </item>
     <item>
       <title>Clôture Usa du 2025-11-03</title>
