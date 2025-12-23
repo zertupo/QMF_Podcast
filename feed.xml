@@ -2,31 +2,36 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>QMF World Closing Bell</title>
-    <link>https://zertupo.github.io/QMF_Podcast/</link>
-    <language>fr</language>
-    <copyright>© QMF World Closing Bell</copyright>
     <description>
       Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Réalisé par QMF et généré par IA. On refait les séances de la veille pour bien démarrer la journée.</description>
+    <link>https://zertupo.github.io/QMF_Podcast/</link>
+    <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <author>QMF</author>
+    <copyright>© QMF World Closing Bell</copyright>
+    <language>fr</language>
     <itunes:author>QMF</itunes:author>
+    <itunes:summary>Bienvenue sur ce podcast quotidien revenant sur les clotûres des marchés financiers de la veille pour les régions Europe, US et Asie. Démarrer la jounée avec un petit rappel en moins de 3 minutes.</itunes:summary>
     <itunes:owner>
       <itunes:name>QMF</itunes:name>
       <itunes:email>contact@qmf.fr</itunes:email>
       </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business">
       <itunes:category text="Investing" />
       </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
-    <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
     <podcast:locked>false</podcast:locked>
     <item>
       <title>Clôture Asia du 2025-11-03</title>
       <description>Analyse des marchés (Asia) du 2025-11-03</description>
-      <pubDate>Mon, 03 Nov 2025 10:33:53 GMT</pubDate>
-      <itunes:duration>00:03:19</itunes:duration>
       <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3</guid>
-      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" type="audio/mpeg" length="3188445" />
+      <pubDate>Mon, 03 Nov 2025 10:33:53 GMT</pubDate>
+      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" length="3188445" type="audio/mpeg"/>
+      <itunes:summary>Analyse des marchés (Asia) du 2025-11-03</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:03:19</itunes:duration>
+      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+      <itunes:episodeType>full</itunes:episodeType>
       </item>
     <item>
       <title>Clôture Europe du 2025-11-03</title>
