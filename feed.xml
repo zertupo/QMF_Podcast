@@ -26,7 +26,7 @@
       <description>Analyse des marchés (Asia) du 2025-11-03</description>
       <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3</guid>
       <pubDate>Mon, 03 Nov 2025 10:33:53 GMT</pubDate>
-      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" length="3188445" type="audio/mpeg"/>
+      <enclosure url="https://zertupo.github.io/QMF_Podcast/podcast_asia_2025-11-03.mp3" length="3188445" type="audio/mpeg" />
       <itunes:summary>Analyse des marchés (Asia) du 2025-11-03</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>00:03:19</itunes:duration>
@@ -787,6 +787,14 @@
       <pubDate>Tue, 23 Dec 2025 09:33:11 GMT</pubDate>
       <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2025-12-23.mp3</guid>
       <description>Analyse des marchés du 2025-12-22</description>
+      <itunes:duration>00:03:12</itunes:duration>
+      </item>
+    <item>
+      <title>Retour sur les séances du 2025-12-23.</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_du_2025-12-24.mp3" type="audio/mpeg" length="3072670" />
+      <pubDate>Wed, 24 Dec 2025 02:52:09 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2025-12-24.mp3</guid>
+      <description>Analyse des marchés du 2025-12-23</description>
       <itunes:duration>00:03:12</itunes:duration>
       </item>
     </channel>
