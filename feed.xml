@@ -19,7 +19,7 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
       </itunes:category>
-    <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+    <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.png" />
     <podcast:locked>false</podcast:locked>
     <item>
       <title>Clôture Asia du 2025-11-03</title>
@@ -30,7 +30,7 @@
       <itunes:summary>Analyse des marchés (Asia) du 2025-11-03</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>00:03:19</itunes:duration>
-      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.png" />
       <itunes:episodeType>full</itunes:episodeType>
       </item>
     <item>
@@ -42,7 +42,7 @@
       <itunes:summary>Analyse des marchés (Europe) du 2025-11-03</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>00:03:21</itunes:duration>
-      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.jpg" />
+      <itunes:image href="https://zertupo.github.io/QMF_Podcast/artwork.png" />
       <itunes:episodeType>full</itunes:episodeType>
       </item>
     <item>
