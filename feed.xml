@@ -3,7 +3,7 @@
   <channel>
     <title>QMF World Closing Bell</title>
     <description>
-      Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Réalisé par QMF et généré par IA. On refait les séances de la veille pour bien démarrer la journée.</description>
+      Podcast quotidien sur l’actualité des marchés mondiaux : Asie, Europe et États-Unis. Réalisé et monté par QMF. On refait les séances de la veille pour bien démarrer la journée.</description>
     <link>https://zertupo.github.io/QMF_Podcast/</link>
     <atom:link href="https://zertupo.github.io/QMF_Podcast/feed.xml" rel="self" type="application/rss+xml" />
     <author>QMF</author>
