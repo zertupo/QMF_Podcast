@@ -925,5 +925,13 @@
       <description>Analyse des marchés du 2026-01-20</description>
       <itunes:duration>00:02:58</itunes:duration>
       </item>
+    <item>
+      <title>Retour sur les séances du 2026-01-21.</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_du_2026-01-22.mp3" type="audio/mpeg" length="2810610" />
+      <pubDate>Thu, 22 Jan 2026 03:06:08 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2026-01-22.mp3</guid>
+      <description>Analyse des marchés du 2026-01-21</description>
+      <itunes:duration>00:02:55</itunes:duration>
+      </item>
     </channel>
   </rss>
