@@ -1573,5 +1573,13 @@
       <description>Analyse des marchés du 2026-05-25</description>
       <itunes:duration>00:02:06</itunes:duration>
       </item>
+    <item>
+      <title>Retour sur les séances du 2026-05-26.</title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/zertupo.github.io/QMF_Podcast/podcast_du_2026-05-27.mp3" type="audio/mpeg" length="2016070" />
+      <pubDate>Wed, 27 May 2026 05:14:25 GMT</pubDate>
+      <guid isPermaLink="true">https://zertupo.github.io/QMF_Podcast/podcast_du_2026-05-27.mp3</guid>
+      <description>Analyse des marchés du 2026-05-26</description>
+      <itunes:duration>00:02:05</itunes:duration>
+      </item>
     </channel>
   </rss>
